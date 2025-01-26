@@ -11,3 +11,6 @@ public class VarsAndMath {
 
     }
 }
+
+// https://www.w3schools.in/java/examples/concatenate-two-strings-using-concat-method
+// Lesson shows how to use the .concat to fuse two variables. It also shows how a simple + can be used too.
