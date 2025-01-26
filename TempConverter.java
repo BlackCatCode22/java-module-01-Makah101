@@ -9,3 +9,6 @@ public class TempConverter {
         System.out.println(fahrenheit + " degrees fahrenheit is " + celsius + " degrees celcius.");
     }
 }
+
+// https://www.w3schools.in/java/examples/get-user-input-print-screen
+// getting user input was the hardest part besides a quick google search for the conversion formula
